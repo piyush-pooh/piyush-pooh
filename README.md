@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi there ~ hi<br><br>I'm Piyush Sharma, a Cloud Engineer based in India.<br><br>My main focus is on building seamless architecture for  Cloud Based Projects.
+<br>Hi there ~ 👋<br><br>I'm Piyush Sharma, a Cloud Engineer based in India.<br><br>My main focus is on building seamless architecture for  Cloud Based Projects.
 
 
 ## 🌐 Socials:
